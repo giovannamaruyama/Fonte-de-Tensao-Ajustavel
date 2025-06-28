@@ -4,7 +4,7 @@ Projeto realizado para a disciplina SSC0180 – Eletrônica para Computação', 
 ## INTEGRANTES:
 Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna Maruyama - 16869489 e Giovanni Torres Bullo- 16869833
 
-## LISTA DE COMPONENTES
+## LISTA DE COMPONENTES:
 | Componente      |     Especificação       | Preço
 | -------------   |:-------------:          | -----:|
 |PROTOBOARD        |BB-01 400P            | 1 x 21,70
