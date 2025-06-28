@@ -16,5 +16,6 @@ Integrantes Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 1707077
 | RESISTOR CR25  |  1K               |  10 x 0,07 |
 | RESISTOR CR25  | 1K8                | 10 x 0,07 |
 | TRANSISTOR  |60V 0,2A 0,625W      | 1 x 1,60 |
-| TOTAL  |             |   36,90 |
+| PONTE DE DIODO  |1N4007     | 1 x 2,00 |
+| TOTAL  |             |   38,90 |
 
