@@ -28,6 +28,8 @@ O transistor 2N3904, empregado como seguidor de emissor, “acompanha” a tens�
 
 ## PROJETO NO FALSTAD
 [Simulador](https://tinyurl.com/2d3v64pt)
+![image](https://github.com/user-attachments/assets/5a136009-01c2-4e80-82cc-9129bee18d15)
+
 
 
 ## PROJETO NO TINKERCAD
