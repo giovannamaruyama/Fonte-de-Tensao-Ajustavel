@@ -15,10 +15,10 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 | RESISTOR CR25  | 100R               | 10 x 0,07 |
 | RESISTOR CR25| 820R                |  10 x 0,07 |
 | RESISTOR CR25  |  1K               |  10 x 0,07 |
-| RESISTOR CR25  | 1K8                | 10 x 0,07 |
+| RESISTOR CR25  | 2K              | 2 X 1,90 |
 | TRANSISTOR  |60V 0,2A 0,625W      | 1 x 1,60 |
 | PONTE DE DIODO  |1N4007     | 1 x 2,00 |
-| TOTAL  |             |   38,90 |
+| TOTAL  |             |   R$42,00 |
 
  A fonte inicia com um transformador 110 V→24,2 V AC que reduz a tensão de rede a um nível seguro e isolado para as etapas seguintes. Em seguida, a ponte de quatro diodos 1N4007 converte essa tensão alternada em pulsos de corrente contínua; o modelo 1N4007 foi selecionado por sua capacidade de suportar até 1 A e tensões elevadas. O capacitor eletrolítico de 470 µF × 35 V suaviza esses pulsos, mantendo o ripple em torno de 1,8 Vpp e fornecendo reserva de energia para pequenos picos de demanda de carga.
 
