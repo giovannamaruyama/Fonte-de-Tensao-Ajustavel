@@ -35,6 +35,12 @@ O transistor 2N3904, empregado como seguidor de emissor, “acompanha” a tens�
 ## PROJETO NO TINKERCAD
 ![WhatsApp Image 2025-07-03 at 12 28 19](https://github.com/user-attachments/assets/9f044a7b-a746-420a-9315-0b6ec314d7ee)
 
+
+## PROJETO ESQUEMÁTICO EAGLE
+![image](https://github.com/user-attachments/assets/f045b868-b6a0-40a5-a888-1b578c6c842f)
+
+![image](https://github.com/user-attachments/assets/04770b32-09a1-42b3-8de2-39fd6391e039)
+
 ## VÍDEO DO PROJETO SENDO TESTADO
 [![Assista ao vídeo no YouTube](https://img.youtube.com/vi/HnunIId9lDY/0.jpg)](https://youtu.be/HnunIId9lDY)
 
