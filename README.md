@@ -15,7 +15,7 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 | RESISTOR CR25  | 100R               | 10 x 0,07 |
 | RESISTOR CR25| 820R                |  10 x 0,07 |
 | RESISTOR CR25  |  1K               |  10 x 0,07 |
-| RESISTOR CR25  | 2K              | 2 X 1,90 |
+| RESISTOR CR25  | 100R, 2W          | 2 X 1,90 |
 | TRANSISTOR  |60V 0,2A 0,625W      | 1 x 1,60 |
 | PONTE DE DIODO  |1N4007     | 1 x 2,00 |
 | TOTAL  |             |   R$42,00 |
